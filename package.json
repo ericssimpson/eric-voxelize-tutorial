@@ -8,14 +8,17 @@
     "server": "cargo run --release",
     "server:dev": "cargo watch -w src -x \"run --release\"",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "preinstall": "npx only-allow pnpm"
   },
   "devDependencies": {
     "vite": "^4.4.5"
   },
   "dependencies": {
     "@voxelize/core": "^0.1.158",
+    "lil-gui": "^0.19.1",
     "postprocessing": "^6.33.3",
-    "three": "^0.158.0"
-  }
+    "three": "^0.162.0"
+  },
+  "packageManager": "pnpm@10.6.4"
 }
