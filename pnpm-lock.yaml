@@ -9,20 +9,20 @@ importers:
   .:
     dependencies:
       '@voxelize/core':
-        specifier: ^0.1.158
+        specifier: ^0.1.224
         version: 0.1.224(postcss@8.5.3)(postprocessing@6.37.2(three@0.162.0))(three@0.162.0)
       lil-gui:
-        specifier: ^0.19.1
+        specifier: ^0.19.2
         version: 0.19.2
       postprocessing:
-        specifier: ^6.33.3
+        specifier: ^6.37.2
         version: 6.37.2(three@0.162.0)
       three:
         specifier: ^0.162.0
         version: 0.162.0
     devDependencies:
       vite:
-        specifier: ^4.4.5
+        specifier: ^4.5.13
         version: 4.5.13(@types/node@22.14.1)
 
 packages:
