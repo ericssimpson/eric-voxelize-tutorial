@@ -1,5 +1,8 @@
 # Install the dependencies
-`npm install`
+`pnpm install`
 
-# Start the app, also does `cargo run`
-`npm run server`
+# Start the server, automatically does `cargo run`
+`pnpm run server`
+
+# Start the client, automatically does `npm run dev`
+`pnpm run dev`
