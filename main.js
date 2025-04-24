@@ -1,6 +1,6 @@
 import './style.css';
 
-import * as VOXELIZE from '@voxelize/core';
+import * as VOXELIZE from '@voxelize/core/dist/index.cjs.js';
 import { GUI } from 'lil-gui';
 import * as THREE from 'three';
 
