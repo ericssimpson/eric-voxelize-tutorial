@@ -20,7 +20,7 @@
     "postprocessing": "^6.37.2",
     "three": "^0.162.0"
   },
-  "packageManager": "pnpm@10.6.4",
+  "packageManager": "pnpm@10.9.0",
   "pnpm": {
     "onlyBuiltDependencies": [
       "@voxelize/core",
